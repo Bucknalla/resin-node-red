@@ -193,13 +193,13 @@ module.exports = {
             favicon: "/usr/src/app/assets/favicon.ico"
         },
         header: {
-            title: "Pycom Node-RED",
-            image: "/usr/src/app/assets/resin_logo.png", // or null to remove image
-            url: "https://resin.io"
+            title: "Pycom",
+            image: "/usr/src/app/assets/favicon.ico", // or null to remove image
+            url: "https://pycom.io"
         },
         deployButton: {
             type: "simple",
-            label: "Deploy",
+            label: "Go Invent!",
             icon: "/usr/src/app/assets/favicon.ico" // or null to remove image
         },
         login: {
