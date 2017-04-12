@@ -108,7 +108,13 @@ module.exports = {
             username: process.env.USERNAME,
             password: process.env.PASSWORD,
             permissions: "*"
-        }],
+        	},
+			{
+			username: process.env.USERNAME_1,
+			password: process.env.PASSWORD_1,
+			permissions: "*"
+			}
+		],
         default: {
             permissions: "read"
         }
