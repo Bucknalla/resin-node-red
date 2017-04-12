@@ -189,11 +189,11 @@ module.exports = {
     //paletteCategories: ['subflows', 'input', 'output', 'function', 'social', 'mobile', 'storage', 'analysis', 'advanced'],
     editorTheme: {
         page: {
-            title: "resin.io Node-RED",
+            title: "Pycom Node-RED",
             favicon: "/usr/src/app/assets/favicon.ico"
         },
         header: {
-            title: "resin.io Node-RED",
+            title: "Pycom Node-RED",
             image: "/usr/src/app/assets/resin_logo.png", // or null to remove image
             url: "https://resin.io"
         },
